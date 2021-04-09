@@ -1,5 +1,5 @@
 #### Hi, 
-<h1> I am Dilan Tharidu Sangeeth </h1> 🐞 :octocat: 
+<h1> I am Dilan Tharidu Sangeeth 🐞 :octocat: </h1>
 
 > About Me :
 - 🔭  &ensp;Software Engineer @ Virtusa Sri Lanka.
