@@ -18,8 +18,8 @@
 <p float="left">
   <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" height="25">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular 10" height="35">
-  <img src="https://jwt.io/img/pic_logo.svg" alt="Angular 10" height="35">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node" height="35">
+  <img src="https://jwt.io/img/pic_logo.svg" alt="Angular 10" height="30">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node" height="25">
   <img src="https://nestjs.com/img/logo_text.svg" alt="jet" height="35">
   <img src="https://graphql.org/img/logo.svg" alt="jet" height="35">
   <img src="https://cdn.rawgit.com/graphile/graphile.github.io/a6225f8c3052df5c276ecef28aeb0cade1aec16a/logos/postgraphile.optimized.svg" alt="jet" height="35">
