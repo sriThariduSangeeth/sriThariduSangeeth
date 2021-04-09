@@ -1,8 +1,8 @@
 ### Hi, I am Dilan Tharidu Sangeeth 🐞 :octocat: 
 
 > About Me :
-- 🔭  Software Engineer @ Virtusa Sri Lanka.
-- 🌱  Full Stack Developer.
+- 🔭  &ensp;Software Engineer @ Virtusa Sri Lanka.
+- 🌱  &ensp;Full Stack Developer.
 
 ![Dilan's github stats](https://github-readme-stats.vercel.app/api?username=sriThariduSangeeth&show_icons=true&theme=monokai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriThariduSangeeth&theme=monokai&hide=html,css&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
