@@ -22,5 +22,11 @@
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node" height="35">
   <img src="https://nestjs.com/img/logo_text.svg" alt="jet" height="35">
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="jet" height="35">
+  <img src="https://cdn.rawgit.com/graphile/graphile.github.io/a6225f8c3052df5c276ecef28aeb0cade1aec16a/logos/postgraphile.optimized.svg" alt="jet" height="35">
+  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64.png" alt="jet" height="35">
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="jet" height="35">
+  <img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7c665c2ab90dd251/5bd9e3ad4ed46d9b5fbadd02/icon-elastic-stack-bb.svg" alt="jet" height="35">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="jet" height="35">
   <img src="https://graphql.org/img/logo.svg" alt="jet" height="35">
+  
 </p>  
