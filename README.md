@@ -11,7 +11,7 @@
 🔗 Website:&ensp;&ensp;https://dtsangeeth.com<br/>
 📺 FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth/<br/>
 🐦 Twitter:&ensp;&ensp;https://twitter.com/dtsangeeth<br/>
-👨‍💼 LinkedIn:&ensp;&ensp;https://www.linkedin.com/in/dtsangeeth/<br/>
+👨‍💼 &ensp; [![LinkedIn][linkedin-shield]][linkedin-url] :&ensp;&ensp;https://www.linkedin.com/in/dtsangeeth/<br/>
 📧 Email:&ensp;&ensp;dtsangeeth@gmial.com
 ##
 <p float="left">
