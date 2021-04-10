@@ -8,12 +8,11 @@
 
 ### Follow Me
 
-🔗 Website:&ensp;&ensp;https://dtsangeeth.com<br/>
-📺 FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth/<br/>
-🐦 Twitter:&ensp;&ensp;https://twitter.com/dtsangeeth<br/>
-👨‍💼 
-📧 Email:&ensp;&ensp;dtsangeeth@gmial.com
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dtsangeeth/]
+🔗 &ensp;Website:&ensp;&ensp;https://dtsangeeth.com<br/>
+📺 &ensp;FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth/<br/>
+🐦 &ensp;Twitter:&ensp;&ensp;https://twitter.com/dtsangeeth<br/>
+👨‍💼 &ensp;LinkedIn&ensp;&ensp;https://www.linkedin.com/in/dtsangeeth/
+📧 &ensp;Email:&ensp;&ensp;dtsangeeth@gmial.com
 ##
 <p float="left">
   <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" height="20">
