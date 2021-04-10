@@ -11,8 +11,9 @@
 🔗 Website:&ensp;&ensp;https://dtsangeeth.com<br/>
 📺 FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth/<br/>
 🐦 Twitter:&ensp;&ensp;https://twitter.com/dtsangeeth<br/>
-👨‍💼 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dtsangeeth/]
+👨‍💼 
 📧 Email:&ensp;&ensp;dtsangeeth@gmial.com
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/dtsangeeth/]
 ##
 <p float="left">
   <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" height="20">
