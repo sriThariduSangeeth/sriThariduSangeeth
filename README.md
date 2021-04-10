@@ -9,9 +9,9 @@
 ### Follow Me
 
 🔗 &ensp;Website:&ensp;&ensp;https://dtsangeeth.com<br/>
-📺 &ensp;FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth/<br/>
+📺 &ensp;FaceBook:&ensp;&ensp;https://www.facebook.com/tharindu.sangeeth<br/>
 🐦 &ensp;Twitter:&ensp;&ensp;https://twitter.com/dtsangeeth<br/>
-👨‍💼 &ensp;LinkedIn&ensp;&ensp;https://www.linkedin.com/in/dtsangeeth/<br/>
+👨‍💼 &ensp;LinkedIn&ensp;&ensp;https://www.linkedin.com/in/dtsangeeth<br/>
 📧 &ensp;Email:&ensp;&ensp;dtsangeeth@gmial.com <br/>
 ##
 <p float="left">
